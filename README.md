@@ -7,4 +7,3 @@ a simple shell scrips for setting up a pentest env.
 * https://github.com/madmantm/ubuntu-pentest-tools
 * https://github.com/o0110o/pluto
 * https://github.com/Hood3dRob1n/creep3r
-* 
